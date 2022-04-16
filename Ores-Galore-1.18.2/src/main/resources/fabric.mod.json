@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "oresgalore",
+  "version": "${version}",
+
+  "name": "Ores Galore",
+  "description": "Adds many new ores, armor, tools, weapons, structures, and much more!",
+  "authors": [
+    "WizardCraft112"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/WizardCraft112/Ores-Galore-1.18.2.git"
+  },
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.wizardcraft112.oresgalore.OresGalore"
+    ]
+  },
+  "mixins": [
+    "oresgalore.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

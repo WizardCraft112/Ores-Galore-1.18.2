@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2022-04-16 10:28:57 -0700",
+      "minecraft:river": "2022-04-16 10:29:32 -0700",
+      "minecraft:forest": "2022-04-16 10:29:34 -0700",
+      "minecraft:plains": "2022-04-16 10:31:51 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
