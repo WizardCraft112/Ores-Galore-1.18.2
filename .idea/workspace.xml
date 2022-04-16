@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c1a6309-fc42-4899-9cfb-73cf5d364fd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2022-04-16-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/DIM-1/data/raids.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/DIM1/data/raids_end.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/advancements/3959aa12-3a9d-3fc4-84ad-d0d3c7c6550b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/data/raids.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/entities/r.-1.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/entities/r.-1.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/entities/r.0.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/entities/r.0.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/level.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/level.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/playerdata/3959aa12-3a9d-3fc4-84ad-d0d3c7c6550b.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/playerdata/3959aa12-3a9d-3fc4-84ad-d0d3c7c6550b.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/poi/r.-1.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/poi/r.-1.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/poi/r.0.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/poi/r.0.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.0.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.0.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.0.1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/session.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Mod Test/stats/3959aa12-3a9d-3fc4-84ad-d0d3c7c6550b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/OresGalore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/mixin/ExampleMixin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/modid/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/oresgalore.mixins.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ores-Galore-1.18.2" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ores-Galore-1.18.2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ores-Galore-1.18.2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="fabric" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27t8U3CMuzlvAupg4I6bAZQ8z40" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Pranay Bokde/Desktop/Minecraft Modding/Ores-Galore-1.18.2/.gradle/loom-cache/1.18.2/net.fabricmc.yarn.1_18_2.1.18.2+build.3-v2/minecraft-project-@-merged-named-sources.jar",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="RunManager" selected="Gradle.Ores-Galore-1.18.2 [runClient]">
+    <configuration name="Ores-Galore-1.18.2 [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Ores-Galore-1.18.2 [runClient]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c1a6309-fc42-4899-9cfb-73cf5d364fd6" name="Changes" comment="" />
+      <created>1650128037461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650128037461</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
