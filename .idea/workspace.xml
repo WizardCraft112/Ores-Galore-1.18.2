@@ -4,22 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c1a6309-fc42-4899-9cfb-73cf5d364fd6" name="Changes" comment="added mythril nugget">
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/block/ModBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/blockstates/deepslate_mythril_ore.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/blockstates/mythril_block.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/blockstates/mythril_ore.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/block/deepslate_mythril_ore.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/block/mythril_block.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/block/mythril_ore.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/item/deepslate_mythril_ore.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/item/mythril_block.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/item/mythril_ore.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/textures/block/deepslate_mythril_ore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/textures/block/mythril_block.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/textures/block/mythril_ore.png" afterDir="false" />
+    <list default="true" id="4c1a6309-fc42-4899-9cfb-73cf5d364fd6" name="Changes" comment="added mythril block, ore, deepslate ore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/OresGalore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/OresGalore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/DIM-1/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/DIM-1/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/DIM1/data/raids_end.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/entities/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/entities/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/entities/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/entities/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/entities/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/entities/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/entities/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/entities/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/poi/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/poi/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/poi/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/poi/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/region/r.0.1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.0.1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/lang/en_us.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650212052008</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added mythril block, ore, deepslate ore">
+      <created>1650213762170</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650213762171</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,6 +232,7 @@
     <MESSAGE value="fixed typo" />
     <MESSAGE value="added raw mythril" />
     <MESSAGE value="added mythril nugget" />
-    <option name="LAST_COMMIT_MESSAGE" value="added mythril nugget" />
+    <MESSAGE value="added mythril block, ore, deepslate ore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added mythril block, ore, deepslate ore" />
   </component>
 </project>
