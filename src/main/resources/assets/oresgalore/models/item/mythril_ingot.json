@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "oresnmore:item/mythril_ingot"
+    "layer0": "oresgalore:item/mythril_ingot"
   }
 }
