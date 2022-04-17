@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c1a6309-fc42-4899-9cfb-73cf5d364fd6" name="Changes" comment="added raw mythril">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/item/mythril_nugget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/textures/item/mythril_nugget.png" afterDir="false" />
+    <list default="true" id="4c1a6309-fc42-4899-9cfb-73cf5d364fd6" name="Changes" comment="added mythril nugget">
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/block/ModBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/blockstates/deepslate_mythril_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/blockstates/mythril_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/blockstates/mythril_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/block/deepslate_mythril_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/block/mythril_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/block/mythril_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/item/deepslate_mythril_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/item/mythril_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/item/mythril_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/textures/block/deepslate_mythril_ore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/textures/block/mythril_block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/textures/block/mythril_ore.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/item/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/item/ModItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/OresGalore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/OresGalore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/lang/en_us.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,8 +95,11 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Pranay Bokde\Desktop\Minecraft Modding\Ores-Galore-1.18.2\src\main\resources\assets\oresgalore\models\item" />
+      <recent name="C:\Users\Pranay Bokde\Desktop\Minecraft Modding\Ores-Galore-1.18.2\src\main\resources\assets\oresgalore\models\block" />
+      <recent name="C:\Users\Pranay Bokde\Desktop\Minecraft Modding\Ores-Galore-1.18.2\src\main\resources\assets\oresgalore\blockstates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pranay Bokde\Desktop\Minecraft Modding\Ores-Galore-1.18.2\src\main\resources\assets\oresgalore\textures\block" />
       <recent name="C:\Users\Pranay Bokde\Desktop\Minecraft Modding\Ores-Galore-1.18.2\src\main\resources\assets\oresgalore\textures\item" />
       <recent name="C:\Users\Pranay Bokde\Desktop\Minecraft Modding\Ores-Galore-1.18.2" />
     </key>
@@ -176,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650211890877</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added mythril nugget">
+      <created>1650212052008</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650212052008</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +216,7 @@
     <MESSAGE value="added item registry" />
     <MESSAGE value="fixed typo" />
     <MESSAGE value="added raw mythril" />
-    <option name="LAST_COMMIT_MESSAGE" value="added raw mythril" />
+    <MESSAGE value="added mythril nugget" />
+    <option name="LAST_COMMIT_MESSAGE" value="added mythril nugget" />
   </component>
 </project>

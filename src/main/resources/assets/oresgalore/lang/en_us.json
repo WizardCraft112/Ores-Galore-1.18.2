@@ -1,5 +1,8 @@
 {
   "item.oresgalore.mythril_ingot": "Mythril Ingot",
   "item.oresgalore.raw_mythril": "Raw Mythril",
-  "item.oresgalore.mythril_nugget": "Mythril Nugget"
+  "item.oresgalore.mythril_nugget": "Mythril Nugget",
+
+  "block.oresgalore.mythril_block": "Mythril Block",
+  "block.oresgalore.mythril_ore": "Mythril Ore"
 }
