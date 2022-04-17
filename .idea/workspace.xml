@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c1a6309-fc42-4899-9cfb-73cf5d364fd6" name="Changes" comment="added item registry">
+    <list default="true" id="4c1a6309-fc42-4899-9cfb-73cf5d364fd6" name="Changes" comment="fixed typo">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/item/raw_mythril.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
@@ -20,6 +21,7 @@
       <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/entities/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/entities/r.0.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/level.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/poi/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/poi/r.0.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.-1.1.mca" afterDir="false" />
@@ -27,7 +29,8 @@
       <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.0.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Mod Test/region/r.0.1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Test/region/r.0.1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/item/mythril_ingot.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/models/item/mythril_ingot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/item/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/item/ModItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/oresgalore/lang/en_us.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,18 +91,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pranay Bokde/Desktop/Minecraft Modding/Ores-Galore-1.18.2/.gradle/loom-cache/1.18.2/net.fabricmc.yarn.1_18_2.1.18.2+build.3-v2/minecraft-project-@-merged-named-sources.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Pranay Bokde/Desktop/Minecraft Modding/Ores-Galore-1.18.2/src/main/resources/assets/oresgalore/models/item",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pranay Bokde\Desktop\Minecraft Modding\Ores-Galore-1.18.2\src\main\resources\assets\oresgalore\models\item" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Pranay Bokde\Desktop\Minecraft Modding\Ores-Galore-1.18.2" />
       <recent name="C:\Users\Pranay Bokde\Desktop\Minecraft Modding\Ores-Galore-1.18.2\src\main\resources\assets\oresgalore\textures\item" />
@@ -177,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650211138762</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fixed typo">
+      <created>1650211319673</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650211319673</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +207,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="deleted comments" />
     <MESSAGE value="added item registry" />
-    <option name="LAST_COMMIT_MESSAGE" value="added item registry" />
+    <MESSAGE value="fixed typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed typo" />
   </component>
 </project>

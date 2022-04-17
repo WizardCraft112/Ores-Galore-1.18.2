@@ -12,6 +12,8 @@ public class ModItems {
     public static final Item MYTHRIL_INGOT = registerItem("mythril_ingot",
             new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)));
 
+    public static final Item RAW_MYTHRIL = registerItem("raw_mythril",
+            new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(OresGalore.MOD_ID, name), item);
