@@ -9,7 +9,7 @@ import net.wizardcraft112.oresgalore.OresGalore;
 
 
 public class ModItems {
-    public static final Item ENDIUM_INGOT = registerItem("endium_ingot",
+    public static final Item MYTHRIL_INGOT = registerItem("mythril_ingot",
             new Item(new FabricItemSettings().group(ItemGroup.MATERIALS)));
 
 

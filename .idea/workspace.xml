@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c1a6309-fc42-4899-9cfb-73cf5d364fd6" name="Changes" comment="deleted comments">
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/item/ModItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/OresGalore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/wizardcraft112/oresgalore/OresGalore.java" afterDir="false" />
-    </list>
+    <list default="true" id="4c1a6309-fc42-4899-9cfb-73cf5d364fd6" name="Changes" comment="added item registry" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,17 +64,17 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Pranay Bokde/Desktop/Minecraft Modding/Ores-Galore-1.18.2/.gradle/loom-cache/1.18.2/net.fabricmc.yarn.1_18_2.1.18.2+build.3-v2/minecraft-project-@-merged-named-sources.jar",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pranay Bokde/Desktop/Minecraft Modding/Ores-Galore-1.18.2/.gradle/loom-cache/1.18.2/net.fabricmc.yarn.1_18_2.1.18.2+build.3-v2/minecraft-project-@-merged-named-sources.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Gradle.Ores-Galore-1.18.2 [runClient]">
     <configuration name="Ores-Galore-1.18.2 [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -123,7 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650130665817</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added item registry">
+      <created>1650135309802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650135309802</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added item registry">
+      <created>1650135647794</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650135647794</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="deleted comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted comments" />
+    <MESSAGE value="added item registry" />
+    <option name="LAST_COMMIT_MESSAGE" value="added item registry" />
   </component>
 </project>
